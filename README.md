@@ -1,2 +1,2 @@
 # Gitting Some Practice
-## John MCain
+## John McCain
